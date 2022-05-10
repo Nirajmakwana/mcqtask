@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652167710556" clover="3.2.0">
+  <project timestamp="1652167710556" name="All files">
+    <metrics statements="79" coveredstatements="65" conditionals="57" coveredconditionals="35" methods="49" coveredmethods="39" elements="185" coveredelements="139" complexity="0" loc="79" ncloc="79" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.tsx" path="C:\Users\devic\Desktop\projects\mcq105\src\App.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="14" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="C:\Users\devic\Desktop\projects\mcq105\src\index.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="76" coveredstatements="64" conditionals="57" coveredconditionals="35" methods="48" coveredmethods="38"/>
+      <file name="Frsitpage.tsx" path="C:\Users\devic\Desktop\projects\mcq105\src\components\Frsitpage.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="9" coveredmethods="9"/>
+        <line num="10" count="52" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="21" count="13" type="stmt"/>
+        <line num="22" count="13" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="13" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+      </file>
+      <file name="SecondPage.tsx" path="C:\Users\devic\Desktop\projects\mcq105\src\components\SecondPage.tsx">
+        <metrics statements="66" coveredstatements="54" conditionals="52" coveredconditionals="31" methods="39" coveredmethods="29"/>
+        <line num="26" count="84" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="22" type="stmt"/>
+        <line num="37" count="22" type="stmt"/>
+        <line num="38" count="22" type="stmt"/>
+        <line num="39" count="22" type="stmt"/>
+        <line num="40" count="22" type="stmt"/>
+        <line num="41" count="22" type="stmt"/>
+        <line num="43" count="22" type="stmt"/>
+        <line num="44" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="9" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="60" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="84" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="108" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="109" count="3" type="stmt"/>
+        <line num="110" count="3" type="stmt"/>
+        <line num="117" count="9" type="stmt"/>
+        <line num="119" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="124" count="4" type="stmt"/>
+        <line num="136" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="137" count="4" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="176" count="1" type="stmt"/>
+        <line num="192" count="22" type="stmt"/>
+        <line num="193" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="197" count="22" type="stmt"/>
+        <line num="198" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="202" count="22" type="stmt"/>
+        <line num="203" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="206" count="2" type="stmt"/>
+        <line num="208" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="211" count="2" type="stmt"/>
+        <line num="213" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="216" count="2" type="stmt"/>
+        <line num="218" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="219" count="0" type="stmt"/>
+        <line num="221" count="2" type="stmt"/>
+        <line num="223" count="2" type="cond" truecount="2" falsecount="3"/>
+        <line num="224" count="0" type="stmt"/>
+        <line num="226" count="2" type="stmt"/>
+        <line num="230" count="22" type="stmt"/>
+        <line num="231" count="2" type="stmt"/>
+        <line num="232" count="2" type="stmt"/>
+        <line num="235" count="22" type="stmt"/>
+        <line num="276" count="0" type="stmt"/>
+        <line num="296" count="4" type="stmt"/>
+        <line num="309" count="100" type="stmt"/>
+        <line num="310" count="100" type="cond" truecount="2" falsecount="0"/>
+        <line num="311" count="285" type="stmt"/>
+        <line num="312" count="100" type="cond" truecount="2" falsecount="0"/>
+        <line num="313" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="315" count="100" type="stmt"/>
+        <line num="316" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
